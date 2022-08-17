@@ -1,16 +1,20 @@
-# iide_cart
+# IIDE SKILL TEST
 
-A new Flutter project.
+The app with t**wo screens where in the first screen there should be a list of the products and each item in the list will have an add to cart button. Pressing this add button should acknowledge to the user that your product has been added to the cart.**
 
-## Getting Started
+> 💡 **dummyJSON REST API is used for product listing**
+> 
 
-This project is a starting point for a Flutter application.
+```
 
-A few resources to get you started if this is your first Flutter project:
+  https://dummyjson.com/products
+  
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Packages Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- HTTP: V 0.13.5
+- Provider: V 6.0.3
+- Badges: 2.0.3
+
+## APK Click [here](https://github.com/joeljsv/iide_cart/tree/main/apks/flutter-apk)
